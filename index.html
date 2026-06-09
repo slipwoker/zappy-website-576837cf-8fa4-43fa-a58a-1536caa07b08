@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "576837cf-8fa4-43fa-a58a-1536caa07b08";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">Skip to main content</a>
+<script>window.ZAPPY_WEBSITE_ID = "576837cf-8fa4-43fa-a58a-1536caa07b08";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">Skip to main content</a>
   <nav class="navbar">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -854,9 +854,9 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim" id="home-hero-section" style="min-height: 678.286px !important;">
   <!-- Background Image -->
-  <img loading="eager" fetchpriority="high" data-hero-bg="true" class="home-hero-section__bg-image" data-placeholder="home-hero-image-1" data-context="Warm, sunlit studio tabletop with handmade beaded necklaces, woven bracelets, and artisan earrings arranged naturally among dried flowers, linen fabric, and soft watercolor paint swatches. Shallow depth of field, golden hour light, poetic and editorial mood." width="1200" height="600" src="/assets/site-home-hero-image-1.webp" alt="Handmade jewelry and crafts arranged in a natural studio setting">
+  <img loading="eager" fetchpriority="high" data-hero-bg="true" class="home-hero-section__bg-image" data-placeholder="home-hero-image-1" data-context="Warm, sunlit studio tabletop with handmade beaded necklaces, woven bracelets, and artisan earrings arranged naturally among dried flowers, linen fabric, and soft watercolor paint swatches. Shallow depth of field, golden hour light, poetic and editorial mood." width="1200" height="600" src="/assets/site-home-hero-image-1.webp" alt="Handmade jewelry and crafts arranged in a natural studio setting" data-hero-background="true" data-element-type="image" data-element-id="img-1781007325960-fbtlna8zn">
 
   <!-- Scrim Overlay -->
   <div class="home-hero-section__scrim" aria-hidden="true"></div>
@@ -889,8 +889,8 @@
         Christina's Creations brings thoughtful artistry to life with beautiful materials and meaningful handmade details — each piece tells a story of care and craftsmanship.
       </h3>
       <div class="home-hero-section__ctas">
-        <a href="/contact" class="home-hero-section__btn home-hero-section__btn--primary">Get in Touch</a>
-        <a href="/gallery" class="home-hero-section__btn home-hero-section__btn--secondary">Explore the Gallery</a>
+        <a href="/contact" class="home-hero-section__btn home-hero-section__btn--primary" style="color: rgb(0, 0, 0) !important;" data-element-type="button" data-element-id="btn-1781007325956-xh9tc1arx" data-native-element="true">Get in Touch</a>
+        <a href="/gallery" class="home-hero-section__btn home-hero-section__btn--secondary" data-element-type="button" data-element-id="btn-1781007325956-ugn37vm6z" data-native-element="true">Explore the Gallery</a>
       </div>
     </div>
   </div>
@@ -1148,7 +1148,7 @@
     <div class="footer-top">
       <!-- Company Info -->
       <div class="footer-col footer-company-col">
-        <img src="/assets/christina-s-creations-handmade-crafts-jewelry-logo.webp" alt="Christina&#39;s Creations" class="logo">
+        <img src="/assets/christina-s-creations-handmade-crafts-jewelry-logo.webp" alt="Christina's Creations" class="logo">
         <p class="footer-tagline">Handcrafted with love, designed to be cherished. Each piece tells a story of artistry and care.</p>
       </div>
 
