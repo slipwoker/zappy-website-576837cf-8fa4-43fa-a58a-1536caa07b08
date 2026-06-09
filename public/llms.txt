@@ -1,0 +1,98 @@
+# Christina's Creations — Generative Engine Optimization Map
+
+> A handmade crafts and jewelry business that wants to showcase its products visually through many photos, with a beautiful and expressive website that communicates the brand's story and identity in depth.
+
+---
+
+## Pages
+
+### Home
+https://christina-s-creations-576837cf.zappy5.app
+Discover handcrafted luxury jewelry and unique crafts that tell a story. Shop phone chains, elegant necklaces, bracelets, and more. Elevate your style today.
+
+### Gallery
+https://christina-s-creations-576837cf.zappy5.app/gallery
+Immerse yourself in a visual feast of handmade luxury jewelry and crafts. Browse phone chains, keychains, car decorations, and exquisite pens. Get inspired now.
+
+### About
+https://christina-s-creations-576837cf.zappy5.app/about
+Meet the maker behind Christina&#39;s Creations. Learn how passion shapes every piece of luxury jewelry, from delicate phone bars to statement earrings. Read our story.
+
+### Contact
+https://christina-s-creations-576837cf.zappy5.app/contact
+Ready for bespoke luxury jewelry or custom crafts? Reach out to discuss phone chains, bracelets, and personalized creations. Let&#39;s bring your vision to life.
+
+### Products
+https://christina-s-creations-576837cf.zappy5.app/products
+Our Products - Christina's Creations
+
+### Cart
+https://christina-s-creations-576837cf.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://christina-s-creations-576837cf.zappy5.app/checkout
+Checkout
+
+### Login
+https://christina-s-creations-576837cf.zappy5.app/login
+Customer Login
+
+### Account
+https://christina-s-creations-576837cf.zappy5.app/account
+My Account
+
+### Order Success
+https://christina-s-creations-576837cf.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://christina-s-creations-576837cf.zappy5.app/product/:slug
+Product Details - Christina's Creations
+
+### Category
+https://christina-s-creations-576837cf.zappy5.app/category/:slug
+Products - Christina's Creations
+
+## Legal & Policy
+
+### Privacy Policy
+https://christina-s-creations-576837cf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://christina-s-creations-576837cf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://christina-s-creations-576837cf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Christina's Creations
+A handmade crafts and jewelry business that wants to showcase its products visually through many photos, with a beautiful and expressive website that communicates the brand's story and identity in depth.
+
+## Target Audience
+- Crafts and jewelry
+
+## Industry
+Handmade Crafts & Jewelry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://christina-s-creations-576837cf.zappy5.app/sitemap.xml
+- Robots: https://christina-s-creations-576837cf.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://christina-s-creations-576837cf.zappy5.app/llms-full.txt
+- Products (JSON): https://christina-s-creations-576837cf.zappy5.app/products.json
+- Products (Google Merchant RSS): https://christina-s-creations-576837cf.zappy5.app/product-feed.xml
